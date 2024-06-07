@@ -49,18 +49,18 @@ MARKDOWN
 武磊|右脚|99999
 
 ## 代码块用\`
-`c
+```c
   #include<stdio.h>
   int main()
   {
 	return 0;
   }	
-`
-`cpp
+```
+```cpp
 	#include<iostream>
 	using namespace std;
 	int main()
 	{
 		raturn 0;
 	}
-`
+```
